@@ -2,7 +2,23 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+## Profile
+Passion 
+Start with your identify: 
+I am a full stack web developer
+
+What do you bring: 
+
+What you love about tech: 
+
+## Projects
+Put a list of projects up that you have completed in Makers. 
+
 ## Skills
+Passion
+Adaptable
+Examples:
+Punctuality, determination, organisation, communication, problem-solving, leadership. 
 
 #### This Skill
 
@@ -11,6 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience
 - Achievements
 - Evidence
+
 
 #### Another Skill
 
@@ -48,3 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Hobbies
+
+
