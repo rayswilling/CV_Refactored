@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/<JobReady?>-<YES>-<COLOR>.svg)](https://shields.io/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 
 ## Ranen Swilling
 
