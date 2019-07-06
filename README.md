@@ -35,19 +35,19 @@ Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp f
 Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writing clean code, Pair Programming , Agile development as well as core principles such as dependency injection, single responsibility, cohesion and encapsulation, polymorphism et
 
 ## Languages and frameworks
-## Languages
+#### Languages
 
 Ruby
 JavaScript
 HTML / CSS (Including CSS Flexbox & CSS Grid)
 
-## Frameworks
+#### Frameworks
 
 React
 Ruby on Rails
 Sinatra
 
-## Testing Suites
+#### Testing Suites
 
 RSpec (Ruby)
 Capybara (Ruby / JavaScript)
@@ -56,22 +56,22 @@ Jest (JavaScript)
 Enzyme (React)
 Cypress
 
-## Git workflow
+#### Git workflow
 
 Using branches to work collaboratively in teams
 Writing descriptive & succinct commit messages
 Enforcing good commit discipline to minimise code conflicts
 Dealing with code conflicts
 
-## Databases
+#### Databases
 
 PostgreSQL
 
-## Deployment
+#### Deployment
 
 Continuous deployment of the master and dev branches using Heroku
 
-## Working Methodology
+#### Working Methodology
 
 Agile software development including:
 XP values
