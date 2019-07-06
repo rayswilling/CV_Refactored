@@ -1,13 +1,18 @@
 ## Ranen Swilling
 
-I am .... I recently completed a Masters at Stellenbosch University. The day after I completed my studies, I applied for a UK ancestral visa and decided to focus all my time and energy in becoming a better software development. 
+I love working hard on things I care about, and work well within diverse groups and
+independently. I am an honest, loyal and tenacious individual. I am quietly confident and easy to
+get along with. I articulate myself well and have good writing abilities. I believe my sense of
+initiative and high levels of enthusiasm will make me an asset to any team. 
+
+I recently completed a Masters at Stellenbosch University. The day after I completed my studies, I applied for a UK ancestral visa and decided to focus all my time and energy in becoming a better software development. 
 
 ## Background
 iShack 
 
 Masters of Philosophy in Sustainable Development
 
-Passion 
+Passion
 Start with your identify: 
 I am a full stack web developer
 
@@ -99,11 +104,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
+
+
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
 
 ## Hobbies
+
+- Football, boxing, mountain biking, cycling, running, hiking and yoga. 
+
+- Playing piano - classical and jazz, reading, volunteering and spending time with people.
+
+- I am well-travelled and have been a part of expeditions to remote mountain regions in Nepal
+(Himalaya), Uganda (The Rwenzori), Peru (Cordillera Blanca) and have spent a lot of time in
+Mexico.
 
 
