@@ -1,8 +1,12 @@
 ## Ranen Swilling
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am .... I recently completed a Masters at Stellenbosch University. The day after I completed my studies, I applied for a UK ancestral visa and decided to focus all my time and energy in becoming a better software development. 
 
-## Profile
+## Background
+iShack 
+
+Masters of Philosophy in Sustainable Development
+
 Passion 
 Start with your identify: 
 I am a full stack web developer
@@ -20,14 +24,62 @@ Adaptable
 Examples:
 Punctuality, determination, organisation, communication, problem-solving, leadership. 
 
-#### This Skill
+## Education
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Makers Academy (29 April to 19 July)
+Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
 
-- Experience
-- Achievements
-- Evidence
+#### Core course topics:
 
+##### Programming fundamentals
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writing clean code, Pair Programming , Agile development as well as core principles such as dependency injection, single responsibility, cohesion and encapsulation, polymorphism et
+
+## Languages and frameworks
+## Languages
+
+Ruby
+JavaScript
+HTML / CSS (Including CSS Flexbox & CSS Grid)
+
+## Frameworks
+
+React
+Ruby on Rails
+Sinatra
+
+## Testing Suites
+
+RSpec (Ruby)
+Capybara (Ruby / JavaScript)
+Jasmine (JavaScript)
+Jest (JavaScript)
+Enzyme (React)
+Cypress
+
+## Git workflow
+
+Using branches to work collaboratively in teams
+Writing descriptive & succinct commit messages
+Enforcing good commit discipline to minimise code conflicts
+Dealing with code conflicts
+
+## Databases
+
+PostgreSQL
+
+## Deployment
+
+Continuous deployment of the master and dev branches using Heroku
+
+## Working Methodology
+
+Agile software development including:
+XP values
+Sprint planning
+Pair programming
+Breaking down the program into user stories
+Breaking down the user stories further into tickets
+Daily stand-ups and retrospectives to iteratively improve processes and code
 
 #### Another Skill
 
@@ -37,19 +89,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### Stellenbosch University (18 January 2016 - 7 December 2018)
 
