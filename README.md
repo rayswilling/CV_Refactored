@@ -37,35 +37,35 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 ## Languages and frameworks
 #### Languages
 
-Ruby
-JavaScript
-HTML / CSS (Including CSS Flexbox & CSS Grid)
+- Ruby
+- JavaScript
+- HTML / CSS (Including CSS Flexbox & CSS Grid)
 
 #### Frameworks
 
-React
-Ruby on Rails
-Sinatra
+- React
+- Ruby on Rails
+- Sinatra
 
 #### Testing Suites
 
-RSpec (Ruby)
-Capybara (Ruby / JavaScript)
-Jasmine (JavaScript)
-Jest (JavaScript)
-Enzyme (React)
-Cypress
+- RSpec (Ruby)
+- Capybara (Ruby / JavaScript)
+- Jasmine (JavaScript)
+- Jest (JavaScript)
+- Enzyme (React)
+- Cypress
 
 #### Git workflow
 
-Using branches to work collaboratively in teams
-Writing descriptive & succinct commit messages
-Enforcing good commit discipline to minimise code conflicts
-Dealing with code conflicts
+- Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts
 
 #### Databases
 
-PostgreSQL
+- PostgreSQL
 
 #### Deployment
 
@@ -73,13 +73,13 @@ Continuous deployment of the master and dev branches using Heroku
 
 #### Working Methodology
 
-Agile software development including:
-XP values
-Sprint planning
-Pair programming
-Breaking down the program into user stories
-Breaking down the user stories further into tickets
-Daily stand-ups and retrospectives to iteratively improve processes and code
+- Agile software development including:
+  - XP values
+  - Sprint planning
+  - Pair programming
+  - Breaking down the program into user stories
+  - Breaking down the user stories further into tickets
+  - Daily stand-ups and retrospectives to iteratively improve processes and code
 
 #### Another Skill
 
