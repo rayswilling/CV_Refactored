@@ -12,6 +12,10 @@ What do you bring:
 
 What you love about tech: 
 
+Passion
+I am a full stack web developer
+
+
 ## Projects
 Put a list of projects up that you have completed in Makers. 
 
