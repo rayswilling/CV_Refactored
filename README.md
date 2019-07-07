@@ -8,9 +8,6 @@ The iShack Project
 
 Masters of Philosophy in Sustainable Development
 
-Passion
-I am a full stack web developer
-
 What do you bring: 
 
 What you love about tech: 
