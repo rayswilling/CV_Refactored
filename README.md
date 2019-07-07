@@ -1,5 +1,5 @@
 ## Ranen Swilling
-I am an independant thinker, fascinated with technology and sustainability megatrends. I love working hard on things I care about, and work well within diverse groups and independently. I am an honest, loyal and tenacious individual. I am quietly confident and easy to get along with. I articulate myself well and have good writing abilities. I believe my sense of initiative and high levels of enthusiasm will make me an asset to any team. 
+I am an independant thinker, fascinated with technology and sustainability megatrends. I love working hard on things I care about, and work well within diverse groups and independently.
 
 I recently completed a Masters at Stellenbosch University. The day after I completed my studies, I applied for a UK ancestral visa and decided to focus all my time and energy in becoming a better software developer. 
 
@@ -8,12 +8,9 @@ The iShack Project
 
 Masters of Philosophy in Sustainable Development
 
-What do you bring: 
+I am an honest, loyal and tenacious individual. I am quietly confident and easy to get along with. I articulate myself well and have good writing abilities. I believe my sense of initiative and high levels of enthusiasm will make me an asset to any team. 
 
 What you love about tech: 
-
-Passion
-I am a full stack web developer
 
 
 ## Projects
